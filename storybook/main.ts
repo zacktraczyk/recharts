@@ -26,4 +26,5 @@ module.exports = {
   docs: {
     autodocs: false,
   },
+  staticDirs: ['./assets'],
 };
